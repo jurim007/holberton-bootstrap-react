@@ -7,7 +7,7 @@ const Footer = () => {
       <div class="container">
         <div class="row g-4">
           <div class="col-12 col-md-4">
-            <h5 class="text-body-emphasis mb-3">BrandName</h5>
+            <h5 class="text-body-emphasis mb-3">Holberton</h5>
             <p class="small">
               Building robust web layouts efficiently with native utilities.
               Fully responsive and accessible by default.
